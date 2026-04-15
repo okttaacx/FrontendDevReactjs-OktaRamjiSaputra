@@ -1,0 +1,20 @@
+/* Reset CSS & Terapkan Font Poppins secara Global */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background-color: #ffffff;
+  color: #333333;
+  /* Mengatur default text agar lebih rapi */
+  line-height: 1.5; 
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Memastikan tombol tidak membawa font bawaan browser */
+button, input, select, textarea {
+  font-family: 'Poppins', sans-serif;
+}
