@@ -10,7 +10,7 @@ Project ini dikembangkan sebagai bagian dari Technical Test posisi Frontend Deve
 
 ## 🚀 Cara Menjalankan Project (How to Start)
 
-Ikuti langkah-langkah berikut untuk menjalankan project ini di lingkungan lokal Anda:
+Ikuti langkah-langkah berikut untuk menjalankan project ini di lingkungan lokal :
 
 1. **Clone Repository:**
    ```bash
